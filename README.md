@@ -1,0 +1,1 @@
+Exercice dans le cadre du MOOC Harvard - CS50 -Introduction to Artificial Intelligence with Python: Experimenter l'utilisation de scikit learn, appliquer le k nearest neighbors model, et calculer les ratios true positive rate (sensitivité) et le false positive rate (spéficité)
